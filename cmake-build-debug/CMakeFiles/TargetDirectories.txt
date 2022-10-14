@@ -1,0 +1,11 @@
+/Users/stefan.a/CLionProjects/SP2022/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/stefan.a/CLionProjects/SP2022/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/stefan.a/CLionProjects/SP2022/cmake-build-debug/CMakeFiles/zad7.dir
+/Users/stefan.a/CLionProjects/SP2022/cmake-build-debug/CMakeFiles/zad4.dir
+/Users/stefan.a/CLionProjects/SP2022/cmake-build-debug/CMakeFiles/zad6.dir
+/Users/stefan.a/CLionProjects/SP2022/cmake-build-debug/CMakeFiles/zad5.dir
+/Users/stefan.a/CLionProjects/SP2022/cmake-build-debug/CMakeFiles/task1.dir
+/Users/stefan.a/CLionProjects/SP2022/cmake-build-debug/CMakeFiles/zad3.dir
+/Users/stefan.a/CLionProjects/SP2022/cmake-build-debug/CMakeFiles/zad1.dir
+/Users/stefan.a/CLionProjects/SP2022/cmake-build-debug/CMakeFiles/zad2.dir
+/Users/stefan.a/CLionProjects/SP2022/cmake-build-debug/CMakeFiles/SP2022.dir
