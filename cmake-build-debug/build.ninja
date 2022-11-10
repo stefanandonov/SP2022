@@ -122,11 +122,11 @@ build zad9: C_EXECUTABLE_LINKER__zad9_Debug CMakeFiles/zad9.dir/MK/av5/zad9.c.o
 
 build cmake_object_order_depends_target_task1: phony || CMakeFiles/task1.dir
 
-build CMakeFiles/task1.dir/EN/ex4/task1.c.o: C_COMPILER__task1_Debug /Users/stefan.a/CLionProjects/SP2022/EN/ex4/task1.c || cmake_object_order_depends_target_task1
-  DEP_FILE = CMakeFiles/task1.dir/EN/ex4/task1.c.o.d
+build CMakeFiles/task1.dir/EN/ex5/task1.c.o: C_COMPILER__task1_Debug /Users/stefan.a/CLionProjects/SP2022/EN/ex5/task1.c || cmake_object_order_depends_target_task1
+  DEP_FILE = CMakeFiles/task1.dir/EN/ex5/task1.c.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu99
   OBJECT_DIR = CMakeFiles/task1.dir
-  OBJECT_FILE_DIR = CMakeFiles/task1.dir/EN/ex4
+  OBJECT_FILE_DIR = CMakeFiles/task1.dir/EN/ex5
 
 
 # =============================================================================
@@ -136,7 +136,7 @@ build CMakeFiles/task1.dir/EN/ex4/task1.c.o: C_COMPILER__task1_Debug /Users/stef
 #############################################
 # Link the executable task1
 
-build task1: C_EXECUTABLE_LINKER__task1_Debug CMakeFiles/task1.dir/EN/ex4/task1.c.o
+build task1: C_EXECUTABLE_LINKER__task1_Debug CMakeFiles/task1.dir/EN/ex5/task1.c.o
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
   OBJECT_DIR = CMakeFiles/task1.dir
   POST_BUILD = :
@@ -308,11 +308,11 @@ build zad9_dop: C_EXECUTABLE_LINKER__zad9_dop_Debug CMakeFiles/zad9_dop.dir/MK/a
 
 build cmake_object_order_depends_target_zad5: phony || CMakeFiles/zad5.dir
 
-build CMakeFiles/zad5.dir/MK/av6/zad5.c.o: C_COMPILER__zad5_Debug /Users/stefan.a/CLionProjects/SP2022/MK/av6/zad5.c || cmake_object_order_depends_target_zad5
-  DEP_FILE = CMakeFiles/zad5.dir/MK/av6/zad5.c.o.d
+build CMakeFiles/zad5.dir/MK/av5/zad5.c.o: C_COMPILER__zad5_Debug /Users/stefan.a/CLionProjects/SP2022/MK/av5/zad5.c || cmake_object_order_depends_target_zad5
+  DEP_FILE = CMakeFiles/zad5.dir/MK/av5/zad5.c.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu99
   OBJECT_DIR = CMakeFiles/zad5.dir
-  OBJECT_FILE_DIR = CMakeFiles/zad5.dir/MK/av6
+  OBJECT_FILE_DIR = CMakeFiles/zad5.dir/MK/av5
 
 
 # =============================================================================
@@ -322,7 +322,7 @@ build CMakeFiles/zad5.dir/MK/av6/zad5.c.o: C_COMPILER__zad5_Debug /Users/stefan.
 #############################################
 # Link the executable zad5
 
-build zad5: C_EXECUTABLE_LINKER__zad5_Debug CMakeFiles/zad5.dir/MK/av6/zad5.c.o
+build zad5: C_EXECUTABLE_LINKER__zad5_Debug CMakeFiles/zad5.dir/MK/av5/zad5.c.o
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
   OBJECT_DIR = CMakeFiles/zad5.dir
   POST_BUILD = :
@@ -475,11 +475,11 @@ build zad1: C_EXECUTABLE_LINKER__zad1_Debug CMakeFiles/zad1.dir/MK/av6/zad1.c.o
 
 build cmake_object_order_depends_target_task5: phony || CMakeFiles/task5.dir
 
-build CMakeFiles/task5.dir/EN/ex4/task5.c.o: C_COMPILER__task5_Debug /Users/stefan.a/CLionProjects/SP2022/EN/ex4/task5.c || cmake_object_order_depends_target_task5
-  DEP_FILE = CMakeFiles/task5.dir/EN/ex4/task5.c.o.d
+build CMakeFiles/task5.dir/EN/ex5/task5.c.o: C_COMPILER__task5_Debug /Users/stefan.a/CLionProjects/SP2022/EN/ex5/task5.c || cmake_object_order_depends_target_task5
+  DEP_FILE = CMakeFiles/task5.dir/EN/ex5/task5.c.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu99
   OBJECT_DIR = CMakeFiles/task5.dir
-  OBJECT_FILE_DIR = CMakeFiles/task5.dir/EN/ex4
+  OBJECT_FILE_DIR = CMakeFiles/task5.dir/EN/ex5
 
 
 # =============================================================================
@@ -489,7 +489,7 @@ build CMakeFiles/task5.dir/EN/ex4/task5.c.o: C_COMPILER__task5_Debug /Users/stef
 #############################################
 # Link the executable task5
 
-build task5: C_EXECUTABLE_LINKER__task5_Debug CMakeFiles/task5.dir/EN/ex4/task5.c.o
+build task5: C_EXECUTABLE_LINKER__task5_Debug CMakeFiles/task5.dir/EN/ex5/task5.c.o
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
   OBJECT_DIR = CMakeFiles/task5.dir
   POST_BUILD = :
@@ -506,11 +506,11 @@ build task5: C_EXECUTABLE_LINKER__task5_Debug CMakeFiles/task5.dir/EN/ex4/task5.
 
 build cmake_object_order_depends_target_task8: phony || CMakeFiles/task8.dir
 
-build CMakeFiles/task8.dir/EN/ex2/task8.c.o: C_COMPILER__task8_Debug /Users/stefan.a/CLionProjects/SP2022/EN/ex2/task8.c || cmake_object_order_depends_target_task8
-  DEP_FILE = CMakeFiles/task8.dir/EN/ex2/task8.c.o.d
+build CMakeFiles/task8.dir/EN/ex5/task8.c.o: C_COMPILER__task8_Debug /Users/stefan.a/CLionProjects/SP2022/EN/ex5/task8.c || cmake_object_order_depends_target_task8
+  DEP_FILE = CMakeFiles/task8.dir/EN/ex5/task8.c.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu99
   OBJECT_DIR = CMakeFiles/task8.dir
-  OBJECT_FILE_DIR = CMakeFiles/task8.dir/EN/ex2
+  OBJECT_FILE_DIR = CMakeFiles/task8.dir/EN/ex5
 
 
 # =============================================================================
@@ -520,7 +520,7 @@ build CMakeFiles/task8.dir/EN/ex2/task8.c.o: C_COMPILER__task8_Debug /Users/stef
 #############################################
 # Link the executable task8
 
-build task8: C_EXECUTABLE_LINKER__task8_Debug CMakeFiles/task8.dir/EN/ex2/task8.c.o
+build task8: C_EXECUTABLE_LINKER__task8_Debug CMakeFiles/task8.dir/EN/ex5/task8.c.o
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
   OBJECT_DIR = CMakeFiles/task8.dir
   POST_BUILD = :
@@ -568,11 +568,11 @@ build zad8: C_EXECUTABLE_LINKER__zad8_Debug CMakeFiles/zad8.dir/MK/av5/zad8.c.o
 
 build cmake_object_order_depends_target_task7: phony || CMakeFiles/task7.dir
 
-build CMakeFiles/task7.dir/EN/ex4/task7.c.o: C_COMPILER__task7_Debug /Users/stefan.a/CLionProjects/SP2022/EN/ex4/task7.c || cmake_object_order_depends_target_task7
-  DEP_FILE = CMakeFiles/task7.dir/EN/ex4/task7.c.o.d
+build CMakeFiles/task7.dir/EN/ex5/task7.c.o: C_COMPILER__task7_Debug /Users/stefan.a/CLionProjects/SP2022/EN/ex5/task7.c || cmake_object_order_depends_target_task7
+  DEP_FILE = CMakeFiles/task7.dir/EN/ex5/task7.c.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu99
   OBJECT_DIR = CMakeFiles/task7.dir
-  OBJECT_FILE_DIR = CMakeFiles/task7.dir/EN/ex4
+  OBJECT_FILE_DIR = CMakeFiles/task7.dir/EN/ex5
 
 
 # =============================================================================
@@ -582,7 +582,7 @@ build CMakeFiles/task7.dir/EN/ex4/task7.c.o: C_COMPILER__task7_Debug /Users/stef
 #############################################
 # Link the executable task7
 
-build task7: C_EXECUTABLE_LINKER__task7_Debug CMakeFiles/task7.dir/EN/ex4/task7.c.o
+build task7: C_EXECUTABLE_LINKER__task7_Debug CMakeFiles/task7.dir/EN/ex5/task7.c.o
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
   OBJECT_DIR = CMakeFiles/task7.dir
   POST_BUILD = :
@@ -599,11 +599,11 @@ build task7: C_EXECUTABLE_LINKER__task7_Debug CMakeFiles/task7.dir/EN/ex4/task7.
 
 build cmake_object_order_depends_target_task4: phony || CMakeFiles/task4.dir
 
-build CMakeFiles/task4.dir/EN/ex4/task4.c.o: C_COMPILER__task4_Debug /Users/stefan.a/CLionProjects/SP2022/EN/ex4/task4.c || cmake_object_order_depends_target_task4
-  DEP_FILE = CMakeFiles/task4.dir/EN/ex4/task4.c.o.d
+build CMakeFiles/task4.dir/EN/ex5/task4.c.o: C_COMPILER__task4_Debug /Users/stefan.a/CLionProjects/SP2022/EN/ex5/task4.c || cmake_object_order_depends_target_task4
+  DEP_FILE = CMakeFiles/task4.dir/EN/ex5/task4.c.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu99
   OBJECT_DIR = CMakeFiles/task4.dir
-  OBJECT_FILE_DIR = CMakeFiles/task4.dir/EN/ex4
+  OBJECT_FILE_DIR = CMakeFiles/task4.dir/EN/ex5
 
 
 # =============================================================================
@@ -613,7 +613,7 @@ build CMakeFiles/task4.dir/EN/ex4/task4.c.o: C_COMPILER__task4_Debug /Users/stef
 #############################################
 # Link the executable task4
 
-build task4: C_EXECUTABLE_LINKER__task4_Debug CMakeFiles/task4.dir/EN/ex4/task4.c.o
+build task4: C_EXECUTABLE_LINKER__task4_Debug CMakeFiles/task4.dir/EN/ex5/task4.c.o
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
   OBJECT_DIR = CMakeFiles/task4.dir
   POST_BUILD = :
@@ -661,11 +661,11 @@ build homework: C_EXECUTABLE_LINKER__homework_Debug CMakeFiles/homework.dir/EN/e
 
 build cmake_object_order_depends_target_task2: phony || CMakeFiles/task2.dir
 
-build CMakeFiles/task2.dir/EN/ex4/task2.c.o: C_COMPILER__task2_Debug /Users/stefan.a/CLionProjects/SP2022/EN/ex4/task2.c || cmake_object_order_depends_target_task2
-  DEP_FILE = CMakeFiles/task2.dir/EN/ex4/task2.c.o.d
+build CMakeFiles/task2.dir/EN/ex5/task2.c.o: C_COMPILER__task2_Debug /Users/stefan.a/CLionProjects/SP2022/EN/ex5/task2.c || cmake_object_order_depends_target_task2
+  DEP_FILE = CMakeFiles/task2.dir/EN/ex5/task2.c.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu99
   OBJECT_DIR = CMakeFiles/task2.dir
-  OBJECT_FILE_DIR = CMakeFiles/task2.dir/EN/ex4
+  OBJECT_FILE_DIR = CMakeFiles/task2.dir/EN/ex5
 
 
 # =============================================================================
@@ -675,7 +675,7 @@ build CMakeFiles/task2.dir/EN/ex4/task2.c.o: C_COMPILER__task2_Debug /Users/stef
 #############################################
 # Link the executable task2
 
-build task2: C_EXECUTABLE_LINKER__task2_Debug CMakeFiles/task2.dir/EN/ex4/task2.c.o
+build task2: C_EXECUTABLE_LINKER__task2_Debug CMakeFiles/task2.dir/EN/ex5/task2.c.o
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
   OBJECT_DIR = CMakeFiles/task2.dir
   POST_BUILD = :
@@ -723,11 +723,11 @@ build SP2022: C_EXECUTABLE_LINKER__SP2022_Debug CMakeFiles/SP2022.dir/main.c.o
 
 build cmake_object_order_depends_target_task3: phony || CMakeFiles/task3.dir
 
-build CMakeFiles/task3.dir/EN/ex4/task3.c.o: C_COMPILER__task3_Debug /Users/stefan.a/CLionProjects/SP2022/EN/ex4/task3.c || cmake_object_order_depends_target_task3
-  DEP_FILE = CMakeFiles/task3.dir/EN/ex4/task3.c.o.d
+build CMakeFiles/task3.dir/EN/ex5/task3.c.o: C_COMPILER__task3_Debug /Users/stefan.a/CLionProjects/SP2022/EN/ex5/task3.c || cmake_object_order_depends_target_task3
+  DEP_FILE = CMakeFiles/task3.dir/EN/ex5/task3.c.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu99
   OBJECT_DIR = CMakeFiles/task3.dir
-  OBJECT_FILE_DIR = CMakeFiles/task3.dir/EN/ex4
+  OBJECT_FILE_DIR = CMakeFiles/task3.dir/EN/ex5
 
 
 # =============================================================================
@@ -737,7 +737,7 @@ build CMakeFiles/task3.dir/EN/ex4/task3.c.o: C_COMPILER__task3_Debug /Users/stef
 #############################################
 # Link the executable task3
 
-build task3: C_EXECUTABLE_LINKER__task3_Debug CMakeFiles/task3.dir/EN/ex4/task3.c.o
+build task3: C_EXECUTABLE_LINKER__task3_Debug CMakeFiles/task3.dir/EN/ex5/task3.c.o
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
   OBJECT_DIR = CMakeFiles/task3.dir
   POST_BUILD = :
@@ -754,11 +754,11 @@ build task3: C_EXECUTABLE_LINKER__task3_Debug CMakeFiles/task3.dir/EN/ex4/task3.
 
 build cmake_object_order_depends_target_task6: phony || CMakeFiles/task6.dir
 
-build CMakeFiles/task6.dir/EN/ex4/task6.c.o: C_COMPILER__task6_Debug /Users/stefan.a/CLionProjects/SP2022/EN/ex4/task6.c || cmake_object_order_depends_target_task6
-  DEP_FILE = CMakeFiles/task6.dir/EN/ex4/task6.c.o.d
+build CMakeFiles/task6.dir/EN/ex5/task6.c.o: C_COMPILER__task6_Debug /Users/stefan.a/CLionProjects/SP2022/EN/ex5/task6.c || cmake_object_order_depends_target_task6
+  DEP_FILE = CMakeFiles/task6.dir/EN/ex5/task6.c.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu99
   OBJECT_DIR = CMakeFiles/task6.dir
-  OBJECT_FILE_DIR = CMakeFiles/task6.dir/EN/ex4
+  OBJECT_FILE_DIR = CMakeFiles/task6.dir/EN/ex5
 
 
 # =============================================================================
@@ -768,7 +768,7 @@ build CMakeFiles/task6.dir/EN/ex4/task6.c.o: C_COMPILER__task6_Debug /Users/stef
 #############################################
 # Link the executable task6
 
-build task6: C_EXECUTABLE_LINKER__task6_Debug CMakeFiles/task6.dir/EN/ex4/task6.c.o
+build task6: C_EXECUTABLE_LINKER__task6_Debug CMakeFiles/task6.dir/EN/ex5/task6.c.o
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
   OBJECT_DIR = CMakeFiles/task6.dir
   POST_BUILD = :
