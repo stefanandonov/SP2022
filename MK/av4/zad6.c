@@ -26,7 +26,7 @@ int main() {
         }
         //raznostran
         if (a!=b && b!=c && a!=c){
-            printf("Raznostran");
+            printf("Raznostran!");
         }//ramnostran
         else if (a==b && b==c && a==c) { //1==c
             printf("Ramnostran");
